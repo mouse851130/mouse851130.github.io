@@ -58,4 +58,4 @@ prod.ts -> 直接返回main/main.html跟chatRoom/chatRoom.html
 ```
 
 1、先安裝socket.io
-npm run -D socket.io
+npm run -D socket.io"# mouse851130.github.io-ts_chat" 
