@@ -1,0 +1,20 @@
+{
+    "workbench.colorCustomizations": {
+        "activityBar.background": "#14cf56",
+        "titleBar.activeBackground": "#14cf56",
+        "titleBar.activeForeground": "#ffffff"
+    },
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "prettier.configPath": ".prettierrc.json",
+    "editor.formatOnSave": false,
+    "editor.codeActionsOnSave": [
+        "source.formatDocument",
+        "source.fixAll.eslint"
+    ],
+    "[javascript]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "[typescript]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    }
+}
